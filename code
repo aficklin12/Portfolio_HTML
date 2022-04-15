@@ -1,0 +1,139 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Andrew Ficklin Portfolio</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+			<div id="wrapper" class="fade-in">
+
+					<div id="intro">
+						<h1>Andrew Ficklin<br />
+						Portfolio</h1>
+						<p>Data Analyst with skills in Excel, SQL, Tableau, and R programming. </p>
+						<ul class="actions">
+							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
+						</ul>
+					</div>
+
+					<header id="header">
+						<a href="index.html" class="logo">Portfolio</a>
+					</header>
+
+					<nav id="nav">
+						<ul class="links">
+							<li class="active"><a href="index.html">Projects</a></li>
+							
+						</ul>
+						<ul class="icons">
+							
+							<li><a href="https://www.linkedin.com/in/andrew-ficklin/" class="icon brands alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
+									<li><a href="https://github.com/aficklin12" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+						</ul>
+					</nav>
+
+
+					<div id="main">
+
+							<section class="posts">
+								<article>
+									<header>
+										
+										<h2><a href="https://github.com/aficklin12/SQL/commit/c44152b244e837323f47eb50cbbc91ac2d685454">Data Cleaning in SQL<br />
+										for Russia War Losses</a></h2>
+									</header>
+									<a href="https://github.com/aficklin12/SQL/commit/c44152b244e837323f47eb50cbbc91ac2d685454" class="image fit"><img src="images/sql_stock.jpg" alt="" /></a>
+									<p>In this project we took two excel files with data about Russia War Losses and ran SQL queries to clean the data.</p>
+									<ul class="actions special">
+										<li><a href="https://github.com/aficklin12/SQL/commit/c44152b244e837323f47eb50cbbc91ac2d685454" class="button">View Project</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+						
+										<h2><a href="https://public.tableau.com/app/profile/apf5156/viz/RussiaWarLosses/RussiaWarLosses">Tableau Visualization<br />
+										for Russia War Losses</a></h2>
+									</header>
+									<a href="https://public.tableau.com/app/profile/apf5156/viz/RussiaWarLosses/RussiaWarLosses" class="image fit"><img src="images/rus.png" alt="" /></a>
+									<p>I take the data we queried from the Russia War losses to create a data visualization in Tableau.</p>
+									<ul class="actions special">
+										<li><a href="https://public.tableau.com/app/profile/apf5156/viz/RussiaWarLosses/RussiaWarLosses" class="button">View Project</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										
+										<h2><a href="https://public.tableau.com/app/profile/apf5156/viz/2021SelfHarmRelatedDeaths/2021DeathsbySelfHarm">Tableau Visualization<br />
+										for World-Wide Suicide Deaths</a></h2>
+									</header>
+									<a href="https://public.tableau.com/app/profile/apf5156/viz/2021SelfHarmRelatedDeaths/2021DeathsbySelfHarm" class="image fit"><img src="images/sh.png" alt="" /></a>
+									<p>In this Project we visualize data about suicide deaths throughout the world.</p>
+									<ul class="actions special">
+										<li><a href="https://public.tableau.com/app/profile/apf5156/viz/2021SelfHarmRelatedDeaths/2021DeathsbySelfHarm" class="button">View Project</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+									
+										<h2><a href="https://public.tableau.com/app/profile/apf5156/viz/MarvelOpeningWeekendComparedwithAudienceScore/Dashboard1">Tableau Visualization<br />
+										for Marvel Movie Opening Weekends</a></h2>
+									</header>
+									<a href="https://public.tableau.com/app/profile/apf5156/viz/MarvelOpeningWeekendComparedwithAudienceScore/Dashboard1" class="image fit"><img src="images/marv.png" alt="" /></a>
+									<p>In this project we take Marvel movies realeased and compare the opening weekend hype with the audience scores afterward.</p>
+									<ul class="actions special">
+										<li><a href="https://public.tableau.com/app/profile/apf5156/viz/MarvelOpeningWeekendComparedwithAudienceScore/Dashboard1" class="button">View Project</a></li>
+									</ul>
+								</article>
+								
+							</section>
+
+					</div>
+
+					<footer id="footer">
+						
+						</section>
+						<section class="split contact">
+							<section class="alt">
+								<h3>Location</h3>
+								<p>Buffalo,<br />
+								NY</p>
+							</section>
+							<section>
+								<h3>Phone</h3>
+								<p><a href="#">(843) 457-4725</a></p>
+							</section>
+							<section>
+								<h3>Email</h3>
+								<p><a href="#">aficklin12@gmail.com</a></p>
+							</section>
+							<section>
+								<h3>Social</h3>
+								<ul class="icons alt">
+								
+									<li><a href="https://www.linkedin.com/in/andrew-ficklin/" class="icon brands alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
+									<li><a href="https://github.com/aficklin12" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+								</ul>
+							</section>
+						</section>
+					</footer>
+
+					<div id="copyright">
+						<ul><li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+					</div>
+
+			</div>
+
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
